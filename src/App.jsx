@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import Shop from './components/Shop';
+import Shop from './components/shop';
 
 export default function App() {
   const walletState = useState(0);
